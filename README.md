@@ -1,1 +1,1 @@
- This is blog's comment
+ This is [blog's](https://jwzzz.github.io/) comment
